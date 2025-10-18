@@ -12,6 +12,10 @@ professional resumes, and practicing for interviews. Identifying roles that fit 
 and preparing for role-specific interviews can be challenging. SkillUpAI addresses these 
 issues by offering AI-driven career role suggestions, interview question generation, and 
 resume building tools.
+
+
 Objectives of the Project 
 - Guide users in identifying suitable career roles using AI 
 - Provide personalized interview questions based on chosen roles
+-Enable users to build professional resumes easily 
+- Provide career suggestions based on user skills and interests
