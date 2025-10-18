@@ -19,3 +19,15 @@ Objectives of the Project
 - Provide personalized interview questions based on chosen roles
 -Enable users to build professional resumes easily 
 - Provide career suggestions based on user skills and interests
+
+Technology Stack Used
+
+- Frontend: Next.js, Tailwind CSS 
+
+- Backend: Node.js, Express.js 
+
+- Database: PostgreSQL with Prisma ORM 
+
+- Authentication: Clerk 
+
+- AI Integration: Custom logic for role-based AI suggestions and interview questions
